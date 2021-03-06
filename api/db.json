@@ -1,0 +1,37 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is a great stream",
+      "id": 1
+    },
+    {
+      "title": "This is my second stream",
+      "description": "This is my second stream",
+      "id": 2
+    },
+    {
+      "title": "My third stream",
+      "description": "My third stream 1",
+      "userId": "103923294852875782448",
+      "id": 3
+    },
+    {
+      "title": "hi",
+      "description": "there!",
+      "id": 4
+    },
+    {
+      "title": "This is my latest stream",
+      "description": "Hi there",
+      "userId": null,
+      "id": 5
+    },
+    {
+      "title": "Stream1",
+      "description": "Stream1",
+      "userId": "103923294852875782448",
+      "id": 6
+    }
+  ]
+}
